@@ -1,0 +1,37 @@
+Service Provider
+
+Login,
+Browse Firearms Data Sets and Train & Test, 
+View Trained and Tested Tweets Datasets Accuracy in Bar Chart, 
+View Trained and Tested Tweets Datasets Accuracy Results, 
+View Predicted Firearms Monitoring Type, 
+Find Predicted Firearms Monitoring Type Ratio, 
+Download Predicted Data Sets, 
+View Firearms Monitoring Detection Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT FIREARMS MONOTORING DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+
+Flow id,	
+accused_ name,	
+date_ of_incident,	
+manner_of_killed,	
+age,	
+gender,	
+race,	
+licensename,	
+street,	
+city,		
+flee,	
+detected_ by,	
+Prediction.
